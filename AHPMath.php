@@ -1,8 +1,5 @@
 <?php
 /**
- * Copyright (c) 2011, Monterey Institute of International Studies
- * All rights reserved.
- *
  * @license BSD type http://www.opensource.org/licenses/bsd-license.php
  * @author Joshua Newman
  *
