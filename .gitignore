@@ -1,0 +1,6 @@
+# Ignore the settings files
+.settings
+.settings/*
+.pydevproject
+.project
+.buildpath
